@@ -9,3 +9,6 @@ Specifically, an existing solution is proposed to further improve KNN-based Coll
 
 ### Task
 Specifically, an existing solution is proposed to further improve KNN-based Collab- orative method by using Euclidean Distance. This existing solution is presented in a report named “A New Similarity Measure Based on Adjusted Euclidean Distance for Memory-based Collaborative Filtering”. Please read this report carefully, then complete the following tasks.
+
+- dataset file: ml-100k
+  
